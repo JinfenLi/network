@@ -6,7 +6,8 @@
 
 
 ## How to Run
-> first run generate_data.py to dump Boardex or Boards and Gender data. You can also use the function of dump_synthetic_data to generate the synthetic network.
+> First run generate_data.py to dump Boardex or Boards and Gender data. You can also use the function of dump_synthetic_data to generate the synthetic network.
+
 > Then you could either run analysis.py to get familiar with the Boardex data, or run build_network to start simulating the Boardex/Boards and Gender network.
 
 ## License
